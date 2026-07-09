@@ -61,10 +61,3 @@ Para os meus desenvolvimentos diários, utilizo as seguintes tecnologias:
 </div>
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victornobrega00&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub de Víctor" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victornobrega00&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
