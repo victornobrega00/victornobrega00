@@ -35,10 +35,6 @@ Para os meus desenvolvimentos diários, utilizo as seguintes tecnologias:
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
         <br>MySQL
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />
-        <br>SQL Server
-      </td>
     </tr>
     <tr>
       <td align="center" width="120">
