@@ -9,14 +9,14 @@
 
 ###  Sobre mim
 
-- 🔭 Atualmente sou um estudande de engenheira de software 
-- 🌱 Aprimorando constantemente minhas habilidades no ecossistema **Java** e **Spring Boot**.
-- 💡 Foco principal na criação de APIs robustas e gerenciamento de banco de dados relacionais.
-- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/víctor-nóbrega-carvalho)
+-  Atualmente sou um estudande de engenheira de software 
+-  Aprimorando constantemente minhas habilidades no ecossistema **Java** e **Spring Boot**.
+-  Foco principal na criação de APIs robustas e gerenciamento de banco de dados relacionais.
+-  Como me encontrar: [LinkedIn](https://linkedin.com/in/víctor-nóbrega-carvalho)
 
 ---
 
-### 🛠️ Skills e Ferramentas
+###  Skills e Ferramentas
 
 Para os meus desenvolvimentos diários, utilizo as seguintes tecnologias:
 
