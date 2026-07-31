@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+###  Sobre mim
 
 - 🔭 Atualmente sou um estudande de engenheira de software 
 - 🌱 Aprimorando constantemente minhas habilidades no ecossistema **Java** e **Spring Boot**.
